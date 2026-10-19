@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&family=Poppins:wght@400;700&display=swap");
+/* Paleta del modelo Modelo Infantil: edita aquí colores y tipografías */
+:root {
+  --color-primary: #ff6b6b;
+  --color-secondary: #ffe066;
+  --color-accent: #4dabf7;
+  --color-bg: #fff9ec;
+  --color-card: #ffffff;
+  --color-text: #3d3d3d;
+  --font-title: "Baloo 2", cursive;
+  --font-text: "Poppins", sans-serif;
+}
